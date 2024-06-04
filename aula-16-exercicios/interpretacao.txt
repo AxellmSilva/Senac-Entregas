@@ -1,0 +1,14 @@
+Respostas:
+1.
+A)O código pede um número para o usuário para identificar se o resto da divisão é igual a 0. Se for igual a 0 o usuário passa no teste, senão não passará. O teste realizado é para saber se o resto da divisão por 2 é igual a 0.
+B) Números pares.
+C) Números impares.
+
+2.
+A)Serve para identificar uma fruta e seu preço.
+B) O preço da fruta maçã é R$2.25.
+C)O valor preço será trocado pelo último valor da váriavel que no caso se encontra no último break.
+
+3.
+A)A linha está pedindo um número para o usuário e o convertendo para number sendo armazenado na variavel numero,
+B)Seria impresso 'esse número passou no teste' e aparecera uma mensagem de erro uncaught.
